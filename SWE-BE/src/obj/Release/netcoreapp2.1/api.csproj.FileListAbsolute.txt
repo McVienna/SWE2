@@ -1,0 +1,13 @@
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\bin\Release\netcoreapp2.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\bin\Release\netcoreapp2.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\bin\Release\netcoreapp2.1\api.deps.json
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\bin\Release\netcoreapp2.1\api.runtimeconfig.json
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\bin\Release\netcoreapp2.1\api.runtimeconfig.dev.json
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\bin\Release\netcoreapp2.1\api.dll
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\bin\Release\netcoreapp2.1\api.pdb
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\obj\Release\netcoreapp2.1\api.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\obj\Release\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\obj\Release\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\obj\Release\netcoreapp2.1\api.AssemblyInfo.cs
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\obj\Release\netcoreapp2.1\api.dll
+C:\Users\Andre\Documents\FH\SWE\SWE2\SWE-BE\src\obj\Release\netcoreapp2.1\api.pdb

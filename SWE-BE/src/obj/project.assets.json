@@ -3362,6 +3362,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "YamlDotNet/5.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/YamlDotNet.dll": {}
+        }
       }
     },
     ".NETCoreApp,Version=v2.1/osx.10.11-x64": {
@@ -6883,6 +6892,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "YamlDotNet/5.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/YamlDotNet.dll": {}
+        }
       }
     },
     ".NETCoreApp,Version=v2.1/win10-x64": {
@@ -10366,6 +10384,15 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
+        }
+      },
+      "YamlDotNet/5.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/YamlDotNet.dll": {}
         }
       }
     }
@@ -17454,6 +17481,25 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "YamlDotNet/5.4.0": {
+      "sha512": "1wWcMw9sq0Km93B700PGa3W04QwT5K5dQg4A7ODsjCAXO6q0F5YoO2FJkw7iaC4cXIPzNBgziWeZvaxdYdLDhg==",
+      "type": "package",
+      "path": "yamldotnet/5.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/YamlDotNet.dll",
+        "lib/net20/YamlDotNet.xml",
+        "lib/net35/YamlDotNet.dll",
+        "lib/net35/YamlDotNet.xml",
+        "lib/net45/YamlDotNet.dll",
+        "lib/net45/YamlDotNet.xml",
+        "lib/netstandard1.3/YamlDotNet.dll",
+        "lib/netstandard1.3/YamlDotNet.xml",
+        "yamldotnet.5.4.0.nupkg.sha512",
+        "yamldotnet.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -17461,7 +17507,8 @@
       "Microsoft.AspNetCore.Mvc >= 1.1.0",
       "Microsoft.AspNetCore.Routing >= 1.1.0",
       "Microsoft.AspNetCore.Server.Kestrel >= 1.1.0",
-      "Microsoft.NETCore.App >= 1.1.0"
+      "Microsoft.NETCore.App >= 1.1.0",
+      "YamlDotNet >= 5.4.0"
     ]
   },
   "packageFolders": {
@@ -17520,6 +17567,10 @@
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "[1.1.0, )"
+          },
+          "YamlDotNet": {
+            "target": "Package",
+            "version": "[5.4.0, )"
           }
         },
         "imports": [
